@@ -133,7 +133,7 @@ const CharacterCreator = () => {
   const [contacts, setContacts] = useState([]);
   const [enemies, setEnemies] = useState([]);
   const [items, setItems] = useState([]);
-  const [age, setAge] = useState(20);
+  const [age, setAge] = useState(18);
   const [inBrig, setInBrig] = useState(false);
 
   const handleBrig = () => {
